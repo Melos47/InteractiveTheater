@@ -17,10 +17,10 @@ Our four characters are:
 
 They were brought to life by:
 
-- Guo Yueyue (Toast) - https://github.com/yy58
-- Zhang Jinyu (Popcorn) - https://github.com/Goldfish-Zhang
-- Xie Xiwen (Coffee Machine) - https://github.com/polyuxixi
-- Yang Siqi (Rabbit Chef) - https://github.com/Melos47
+- Guo Yueyue (The Toastie) - https://github.com/yy58
+- Zhang Jinyu (The Popcorn) - https://github.com/Goldfish-Zhang
+- Xie Xiwen (The Coffee Machine) - https://github.com/polyuxixi
+- Yang Siqi (The Bunny Chef) - https://github.com/Melos47
 
 ## Acknowledgment
 
