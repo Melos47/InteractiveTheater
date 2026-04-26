@@ -1,6 +1,6 @@
 # InteractiveTheater
 
-Welcome to our Interactive Theater~.
+Welcome to our Interactive Theater~
 
 You can watch the interactive mini-theater on Bilibili:
 
