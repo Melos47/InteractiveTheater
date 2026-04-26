@@ -17,10 +17,10 @@ Our four characters are:
 
 They were brought to life by:
 
-- Guo Yueyue (Toastie) - https://github.com/yy58 - YAML: `characters/0613g.yaml`
-- Zhang Jinyu (Popcorn) - https://github.com/Goldfish-Zhang - YAML: `characters/8123g.yaml`
+- Guo Yueyue (Toastie) - https://github.com/yy58 
+- Zhang Jinyu (Popcorn) - https://github.com/Goldfish-Zhang 
 - Xie Xiwen (Coffee Machine) - https://github.com/polyuxixi 
-- Yang Siqi (Bunny Chef) - https://github.com/Melos47 - YAML: `characters/1601g.yaml`
+- Yang Siqi (Bunny Chef) - https://github.com/Melos47
 
 ## Acknowledgment
 
